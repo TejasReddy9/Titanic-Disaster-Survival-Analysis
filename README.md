@@ -1,2 +1,1 @@
-# Titanic-Disaster-Survival-Analysis
-Competition problem from Kaggle
+https://www.kaggle.com/c/titanic/overview
